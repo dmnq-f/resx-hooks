@@ -1,5 +1,5 @@
-[![unit tests](https://github.com/DominiqueFuchs/resx-hooks/actions/workflows/main.yml/badge.svg)](https://github.com/DominiqueFuchs/resx-hooks/actions/workflows/main.yml)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/DominiqueFuchs/resx-hooks/main.svg)](https://results.pre-commit.ci/latest/github/DominiqueFuchs/resx-hooks/main)
+[![unit tests](https://github.com/dmnq-f/resx-hooks/actions/workflows/main.yml/badge.svg)](https://github.com/dmnq-f/resx-hooks/actions/workflows/main.yml)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/dmnq-f/resx-hooks/main.svg)](https://results.pre-commit.ci/latest/github/dmnq-f/resx-hooks/main)
 
 # resx-hooks
 
@@ -27,7 +27,7 @@ Validates that string format placeholders (like `{0}` or `%s`) are consistent ac
 
 ```yaml
 repos:
--   repo: https://github.com/DominiqueFuchs/resx-hooks
+-   repo: https://github.com/dmnq-f/resx-hooks
     rev: v0.2.0
     hooks:
     -   id: check-keys-consistency
