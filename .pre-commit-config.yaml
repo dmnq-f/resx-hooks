@@ -16,6 +16,3 @@ repos:
     rev: v0.3.0
     hooks:
     -   id: check-all
-
-ci:
-  autofix_prs: false
