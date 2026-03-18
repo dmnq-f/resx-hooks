@@ -12,7 +12,7 @@ repos:
         args: ['--fix=no']
     -   id: trailing-whitespace
 
--   repo: https://github.com/DominiqueFuchs/resx-hooks
+-   repo: https://github.com/dmnq-f/resx-hooks
     rev: v0.3.0
     hooks:
     -   id: check-all
